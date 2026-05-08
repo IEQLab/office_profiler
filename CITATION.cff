@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "poet — Companion code for SocialSys'26"
+message: >
+  If you use this software or the synthetic demo data, please cite the
+  associated workshop paper (preferred) and this repository.
+type: software
+authors:
+  - family-names: Parkinson
+    given-names: Thomas
+    affiliation: IEQ Lab, The University of Sydney
+    email: thomas.parkinson@sydney.edu.au
+repository-code: "https://github.com/IEQLab/office_profiler"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: >
+    Towards Uncovering Indoor Satisfaction Profiles: LLM Capacity for
+    Structured Extraction from Occupant Feedback
+  authors:
+    - family-names: Parkinson
+      given-names: Thomas
+  collection-title: "Proceedings of the SocialSys'26 Workshop"
+  year: 2026
+  publisher:
+    name: ACM

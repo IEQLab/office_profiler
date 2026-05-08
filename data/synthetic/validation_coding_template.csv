@@ -1,0 +1,83 @@
+survey_id,respondent_id,question,profile_label,response,human_impact,human_attribution,human_tone,human_severity,human_coping
+synth-survey-001,synth-r00035,text_layout,Private Office Satisfied,no quiet area is available for focused work or sensitive calls.,concentration,unclear,neutral,minor,acceptance
+synth-survey-001,synth-r00370,text_acoustics,Well-Maintained Moderate,the open plan layout makes concentration difficult — neighbouring conversations are constant.,concentration,personal,neutral,severe,equipment
+synth-survey-001,synth-r00251,text_furnishings,Private Office Satisfied,the desk is too small for two monitors and a notebook.,none,equipment,neutral,minor,behavioral
+synth-survey-001,synth-r00180,text_air,Moderate Satisfaction,the air quality drops noticeably after lunch.,comfort,hvac,neutral,moderate,behavioral
+synth-survey-001,synth-r00385,text_cleaning_services,Clean but Uncomfortable,service has been irregular since the contract changed.,productivity,personal,neutral,moderate,avoidance
+synth-survey-001,synth-r00001,text_acoustics,Private Office Satisfied,phone calls from nearby colleagues carry across the entire floor.,none,personal,resigned,moderate,none
+synth-survey-001,synth-r00084,text_layout,Clean but Uncomfortable,the layout puts collaborative spaces directly next to focus desks.,concentration,building,resigned,severe,acceptance
+synth-survey-001,synth-r00267,text_thermal,Moderate Satisfaction,the temperature swings from cold in the morning to too warm by lunchtime.,none,hvac,resigned,minor,equipment
+synth-survey-001,synth-r00446,text_layout,Private Office Satisfied,no quiet area is available for focused work or sensitive calls.,productivity,equipment,neutral,minor,complaint
+synth-survey-001,synth-r00363,text_cleaning,Building Systems Dissatisfied,the bathrooms are not cleaned often enough during heavy use periods.,health,building,constructive,severe,complaint
+synth-survey-001,synth-r00520,text_lighting,Private Office Satisfied,there is no daylight reaching the interior workstations.,comfort,unclear,constructive,minor,complaint
+synth-survey-001,synth-r00279,text_furnishings,Private Office Satisfied,the meeting room furniture is mismatched and uncomfortable.,health,unclear,constructive,severe,none
+synth-survey-001,synth-r00206,text_cleaning_services,Open Plan Acoustic Crisis,trash bins overflow by friday evening.,concentration,colleagues,frustrated,severe,behavioral
+synth-survey-001,synth-r00215,text_air,Well-Maintained Moderate,the air quality drops noticeably after lunch.,concentration,unclear,resigned,moderate,behavioral
+synth-survey-001,synth-r00324,text_lighting,Well-Maintained Moderate,task lighting is missing — the overheads are too dim for paperwork.,productivity,layout,urgent,severe,complaint
+synth-survey-001,synth-r00253,text_building_comments,Generally Satisfied,the building feels generally well managed but the small issues add up.,comfort,building,constructive,moderate,acceptance
+synth-survey-001,synth-r00522,text_building_comments,Maintenance Crisis,elevator outages have happened twice this month with no notice.,health,building,frustrated,minor,acceptance
+synth-survey-001,synth-r00567,text_air,Moderate Satisfaction,ventilation seems insufficient when the room is full.,none,equipment,constructive,minor,none
+synth-survey-001,synth-r00435,text_lighting,Building Systems Dissatisfied,the overhead fluorescents flicker and trigger headaches.,comfort,equipment,neutral,severe,equipment
+synth-survey-001,synth-r00494,text_air,Open Plan Acoustic Crisis,there is a faint chemical smell near the printer area.,concentration,layout,frustrated,severe,acceptance
+synth-survey-001,synth-r00444,text_cleaning_services,Generally Satisfied,service has been irregular since the contract changed.,communication,equipment,constructive,minor,none
+synth-survey-001,synth-r00243,text_cleaning_services,Clean but Uncomfortable,service has been irregular since the contract changed.,communication,building,urgent,severe,equipment
+synth-survey-001,synth-r00297,text_acoustics,Private Office Satisfied,phone calls from nearby colleagues carry across the entire floor.,comfort,hvac,constructive,minor,none
+synth-survey-001,synth-r00470,text_layout,Moderate Satisfaction,no quiet area is available for focused work or sensitive calls.,comfort,personal,constructive,moderate,complaint
+synth-survey-001,synth-r00498,text_lighting,Building Systems Dissatisfied,task lighting is missing — the overheads are too dim for paperwork.,health,hvac,neutral,severe,none
+synth-survey-001,synth-r00237,text_layout,Clean but Uncomfortable,the layout puts collaborative spaces directly next to focus desks.,productivity,management,frustrated,moderate,equipment
+synth-survey-001,synth-r00153,text_air,Clean but Uncomfortable,there is a faint chemical smell near the printer area.,none,hvac,urgent,minor,acceptance
+synth-survey-001,synth-r00276,text_air,Private Office Satisfied,ventilation seems insufficient when the room is full.,none,layout,urgent,moderate,equipment
+synth-survey-001,synth-r00309,text_acoustics,Private Office Satisfied,noise from the corridor disrupts video calls throughout the day.,none,building,neutral,minor,avoidance
+synth-survey-001,synth-r00462,text_building_comments,Building Systems Dissatisfied,the building feels generally well managed but the small issues add up.,productivity,personal,neutral,severe,avoidance
+synth-survey-001,synth-r00274,text_furnishings,Generally Satisfied,the meeting room furniture is mismatched and uncomfortable.,none,building,constructive,severe,avoidance
+synth-survey-001,synth-r00145,text_building_comments,Well-Maintained Moderate,the building feels generally well managed but the small issues add up.,none,personal,neutral,minor,equipment
+synth-survey-001,synth-r00247,text_cleaning_services,Open Plan Acoustic Crisis,trash bins overflow by friday evening.,concentration,colleagues,frustrated,severe,acceptance
+synth-survey-001,synth-r00356,text_lighting,Building Systems Dissatisfied,the overhead fluorescents flicker and trigger headaches.,productivity,building,constructive,severe,equipment
+synth-survey-001,synth-r00439,text_air,Clean but Uncomfortable,"the air feels stale by mid-afternoon, especially in summer.",productivity,equipment,neutral,moderate,acceptance
+synth-survey-001,synth-r00333,text_layout,Open Plan Acoustic Crisis,there is no clear separation between work zones and walking traffic.,communication,hvac,neutral,moderate,complaint
+synth-survey-001,synth-r00368,text_air,Well-Maintained Moderate,"the air feels stale by mid-afternoon, especially in summer.",comfort,colleagues,constructive,minor,complaint
+synth-survey-001,synth-r00389,text_cleaning_services,Generally Satisfied,the cleaning crew often skips the small meeting rooms entirely.,concentration,personal,neutral,moderate,avoidance
+synth-survey-001,synth-r00316,text_cleaning_services,Open Plan Acoustic Crisis,the cleaning crew often skips the small meeting rooms entirely.,concentration,layout,frustrated,minor,acceptance
+synth-survey-001,synth-r00235,text_building_comments,Building Systems Dissatisfied,elevator outages have happened twice this month with no notice.,concentration,hvac,frustrated,moderate,avoidance
+synth-survey-001,synth-r00208,text_air,Clean but Uncomfortable,"the air feels stale by mid-afternoon, especially in summer.",health,personal,resigned,moderate,acceptance
+synth-survey-001,synth-r00411,text_lighting,Clean but Uncomfortable,the overhead fluorescents flicker and trigger headaches.,comfort,unclear,resigned,severe,behavioral
+synth-survey-001,synth-r00226,text_acoustics,Building Systems Dissatisfied,phone calls from nearby colleagues carry across the entire floor.,comfort,hvac,frustrated,moderate,behavioral
+synth-survey-001,synth-r00016,text_cleaning,Moderate Satisfaction,spills on the kitchen floor sometimes remain for hours.,comfort,building,neutral,minor,none
+synth-survey-001,synth-r00294,text_cleaning,Building Systems Dissatisfied,the bathrooms are not cleaned often enough during heavy use periods.,concentration,hvac,frustrated,severe,behavioral
+synth-survey-001,synth-r00170,text_layout,Generally Satisfied,no quiet area is available for focused work or sensitive calls.,productivity,colleagues,constructive,minor,none
+synth-survey-001,synth-r00562,text_lighting,Open Plan Acoustic Crisis,there is no daylight reaching the interior workstations.,concentration,layout,frustrated,severe,avoidance
+synth-survey-001,synth-r00591,text_cleaning_services,Building Systems Dissatisfied,service has been irregular since the contract changed.,health,building,frustrated,severe,acceptance
+synth-survey-001,synth-r00003,text_furnishings,Generally Satisfied,the desk is too small for two monitors and a notebook.,concentration,building,constructive,moderate,acceptance
+synth-survey-001,synth-r00598,text_layout,Clean but Uncomfortable,no quiet area is available for focused work or sensitive calls.,comfort,building,neutral,moderate,complaint
+synth-survey-001,synth-r00155,text_air,Open Plan Acoustic Crisis,"the air feels stale by mid-afternoon, especially in summer.",health,equipment,resigned,moderate,complaint
+synth-survey-001,synth-r00100,text_acoustics,Moderate Satisfaction,phone calls from nearby colleagues carry across the entire floor.,health,layout,constructive,moderate,none
+synth-survey-001,synth-r00163,text_cleaning,Well-Maintained Moderate,the carpets are visibly dirty and have not been cleaned in months.,communication,hvac,resigned,moderate,avoidance
+synth-survey-001,synth-r00289,text_acoustics,Building Systems Dissatisfied,i wear noise-cancelling headphones almost all the time now.,comfort,hvac,resigned,severe,behavioral
+synth-survey-001,synth-r00062,text_building_comments,Building Systems Dissatisfied,elevator outages have happened twice this month with no notice.,concentration,layout,resigned,severe,complaint
+synth-survey-001,synth-r00026,text_thermal,Generally Satisfied,summer afternoons are unbearable on the west side of the floor.,comfort,hvac,constructive,minor,behavioral
+synth-survey-001,synth-r00542,text_cleaning_services,Open Plan Acoustic Crisis,service has been irregular since the contract changed.,productivity,unclear,frustrated,moderate,complaint
+synth-survey-001,synth-r00031,text_thermal,Well-Maintained Moderate,summer afternoons are unbearable on the west side of the floor.,none,building,constructive,minor,none
+synth-survey-001,synth-r00086,text_furnishings,Clean but Uncomfortable,the chair lacks lumbar support and i have lower back pain.,comfort,building,neutral,severe,avoidance
+synth-survey-001,synth-r00239,text_air,Generally Satisfied,there is a faint chemical smell near the printer area.,productivity,equipment,neutral,minor,complaint
+synth-survey-001,synth-r00314,text_cleaning,Open Plan Acoustic Crisis,the bathrooms are not cleaned often enough during heavy use periods.,productivity,layout,resigned,moderate,avoidance
+synth-survey-001,synth-r00178,text_cleaning,Well-Maintained Moderate,spills on the kitchen floor sometimes remain for hours.,comfort,personal,constructive,moderate,avoidance
+synth-survey-001,synth-r00565,text_layout,Generally Satisfied,the layout puts collaborative spaces directly next to focus desks.,productivity,personal,neutral,minor,avoidance
+synth-survey-001,synth-r00466,text_acoustics,Moderate Satisfaction,the white-noise system is louder than the conversations it is meant to mask.,productivity,layout,constructive,moderate,complaint
+synth-survey-001,synth-r00302,text_lighting,Moderate Satisfaction,task lighting is missing — the overheads are too dim for paperwork.,comfort,equipment,frustrated,severe,none
+synth-survey-001,synth-r00487,text_building_comments,Open Plan Acoustic Crisis,the building feels generally well managed but the small issues add up.,concentration,layout,frustrated,severe,avoidance
+synth-survey-001,synth-r00381,text_building_comments,Private Office Satisfied,facilities respond slowly to requests submitted through the portal.,comfort,layout,constructive,minor,equipment
+synth-survey-001,synth-r00083,text_cleaning,Open Plan Acoustic Crisis,the carpets are visibly dirty and have not been cleaned in months.,concentration,colleagues,frustrated,severe,complaint
+synth-survey-001,synth-r00311,text_cleaning_services,Building Systems Dissatisfied,the cleaning crew often skips the small meeting rooms entirely.,comfort,hvac,constructive,severe,equipment
+synth-survey-001,synth-r00194,text_acoustics,Well-Maintained Moderate,phone calls from nearby colleagues carry across the entire floor.,none,personal,neutral,minor,complaint
+synth-survey-001,synth-r00563,text_building_comments,Well-Maintained Moderate,facilities respond slowly to requests submitted through the portal.,concentration,hvac,constructive,moderate,equipment
+synth-survey-001,synth-r00330,text_layout,Open Plan Acoustic Crisis,no quiet area is available for focused work or sensitive calls.,communication,layout,constructive,minor,none
+synth-survey-001,synth-r00030,text_lighting,Private Office Satisfied,there is no daylight reaching the interior workstations.,communication,unclear,resigned,minor,behavioral
+synth-survey-001,synth-r00472,text_lighting,Moderate Satisfaction,the overhead fluorescents flicker and trigger headaches.,comfort,personal,neutral,severe,equipment
+synth-survey-001,synth-r00242,text_air,Moderate Satisfaction,"the air feels stale by mid-afternoon, especially in summer.",concentration,unclear,neutral,minor,avoidance
+synth-survey-001,synth-r00227,text_thermal,Private Office Satisfied,thermostat seems to ignore the actual temperature in this zone.,none,management,neutral,severe,complaint
+synth-survey-001,synth-r00304,text_air,Moderate Satisfaction,there is a faint chemical smell near the printer area.,health,personal,constructive,moderate,acceptance
+synth-survey-001,synth-r00025,text_building_comments,Moderate Satisfaction,the building feels generally well managed but the small issues add up.,none,building,neutral,minor,complaint
+synth-survey-001,synth-r00509,text_furnishings,Well-Maintained Moderate,the meeting room furniture is mismatched and uncomfortable.,comfort,management,neutral,minor,complaint
+synth-survey-001,synth-r00105,text_layout,Generally Satisfied,no quiet area is available for focused work or sensitive calls.,communication,personal,neutral,minor,avoidance
+synth-survey-001,synth-r00531,text_thermal,Generally Satisfied,thermostat seems to ignore the actual temperature in this zone.,productivity,layout,resigned,moderate,complaint
+synth-survey-001,synth-r00142,text_building_comments,Generally Satisfied,elevator outages have happened twice this month with no notice.,concentration,unclear,neutral,moderate,complaint
